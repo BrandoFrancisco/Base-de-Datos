@@ -1,3 +1,2 @@
-# Base-de-Datos
-LBD
+# LBD
 Laboratorio de Base de datos
